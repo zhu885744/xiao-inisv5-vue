@@ -183,3 +183,6 @@ History模式使用HTML5 History API，URL更加干净，例如：`http://exampl
 - **Netlify**：简单易用，支持自动部署
 - **GitHub Pages**：适合静态网站，推荐使用Hash模式
 - **阿里云/腾讯云**：适合企业级应用，需要手动配置服务器
+
+### 开源许可
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
